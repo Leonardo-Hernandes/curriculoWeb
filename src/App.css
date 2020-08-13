@@ -36,3 +36,244 @@
     transform: rotate(360deg);
   }
 }
+
+body{
+  background: #FFFFFF url("/img/bodyBackground.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
+}
+
+.pb-0{
+  padding: 0rem!important;
+}
+
+.shadow{
+  box-shadow: 0 1.5rem 1rem rgba(0,0,0,.15)!important
+}
+
+.htip{
+  text-align: center;
+  padding-top: 17px;
+}
+
+.tip{
+  padding: 20px 20px 52px 25px;
+  text-align: center;
+}
+
+.hero{
+  background-image: url("/img/profileBackground.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 600px;
+  margin-top: 10%;
+  
+}
+
+.hero2{
+  width: 100%;
+  height: 600px;
+  opacity: 0.5;
+}
+
+.heroImg{
+  width: 250px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  border-radius: 50%;
+  margin-top: inherit;
+}
+
+.heroName{
+    color: white;
+    text-align: center;
+    font-size: 33px;
+    font-family: louis-george-bold;
+}
+
+.heroIconsBox{
+  display: flex;
+  justify-content: center;
+  font-size: 30px;
+  margin-bottom: 0!important;
+}
+
+.heroIcons{
+  color: white;
+  margin-left: 4px;
+  margin-right: 4px;
+}
+
+.infoBox{
+  background-color: white;
+  width: 100%;
+  padding-bottom: 55px;
+}
+
+.aboutMe {
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-family: louis-george-bold;
+}
+
+.aboutMeText {
+  margin-left: 10px;
+}
+
+.basicInfo {
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-family: louis-george-bold;
+}
+
+.basicInfoText {
+  margin-left: 30px;
+}
+
+.skills{
+  background-color: white;
+  margin-top: 15rem;
+  padding-bottom: 35px;
+}
+
+.skillsTitle{
+  color: white;
+  text-align: center;
+  padding: 11px 0 11px 0;
+  font-family: louis-george-bold;
+  background-color: black;
+}
+
+.skillsBox{
+  align-items: center;
+  justify-content: center;
+  margin-top: 35px;
+}
+
+.skillsIcons{
+  margin: 20px 20px 20px 20px;
+  width: 150px;
+}
+
+.education {
+  background-color: white;
+  padding-bottom: 35px;
+}
+
+.educationCol{
+  padding: 0 0 0 0!important;
+}
+
+.Card{
+  margin-top: 35px;
+}
+
+.educationCardAdjust{
+  width: 35rem;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  margin-top: 13px;
+  margin-bottom: 13px;
+  font-family: louis-george-bold;
+}
+
+.educationTitle{
+  text-align: center;
+  color: white;
+  font-family: louis-george-bold;
+  background-color: black;
+  padding: 14px 0 14px 0;
+}
+
+.educationButton{
+  color: white;
+  font-family: louis-george-bold;
+}
+
+.projects{
+  background-color: white;
+}
+
+.projectsTitle{
+  background-color: black;
+  font-family: louis-george-bold;
+  text-align: center;
+  color: white;
+  padding: 14px 0 14px 0;
+}
+
+.projectsBox{
+  padding: 90px 0 90px 0;
+}
+
+.projectsCard{
+  width: 30%;
+  margin-left: 40px;
+}
+
+.projectsCardImg{
+  width: 100%;
+}
+
+.projectsCardTitle{
+  font-family: louis-george-bold;
+}
+
+.projectsCardText{
+  font-family: louis-george;
+}
+
+.projectsButton{
+  font-family: louis-george-bold;
+  color: white;
+}
+
+.contact{
+  padding-bottom: 3%;
+  padding-top: 2%;
+  background-color: white;
+}
+
+.contactBox{
+  padding: 30px 0 30px 0;
+  margin-bottom: 40px;
+}
+
+.contactTitle{
+  text-align: center;
+  font-family: louis-george-bold;
+  background-color: black;
+  color: white;
+  padding: 14px 0 14px 0;
+}
+
+.contactFormTitle{
+  font-family: louis-george-bold;
+}
+
+.contactFormText{
+  font-family: louis-george;
+}
+
+.contactButton{
+  font-family: louis-george-bold;
+  height: 38px;
+  margin-right: 10px;
+}
+
+.contactButtonText{
+  color: white;
+  text-decoration: none;
+}
+
+.row{
+  margin-left: 0!important;
+  margin-right: 0!important;
+}

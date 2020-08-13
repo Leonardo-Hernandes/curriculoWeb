@@ -1,0 +1,29 @@
+@font-face {
+    font-family: louis-george;
+    src: url("./assets/Fonts/Louis\ George\ Cafe.ttf")
+  }
+  
+  @font-face {
+    font-family: louis-george-bold;
+    src: url("./assets/Fonts/Louis\ George\ Cafe\ Bold.ttf")
+  }
+  
+  @font-face {
+    font-family: louis-george-bold-italic;
+    src: url("./assets/Fonts/Louis\ George\ Cafe\ Bold\ Italic.ttf")
+  }
+  
+  @font-face {
+    font-family: louis-george-italic;
+    src: url("./assets/Fonts/Louis\ George\ Cafe\ Italic.ttf")
+  }
+  
+  @font-face {
+    font-family: louis-george-ligh;
+    src: url("./assets/Fonts/Louis\ George\ Cafe\ Light.ttf")
+  }
+  
+  @font-face {
+    font-family: louis-george-light-italic;
+    src: url("./assets/Fonts/Louis\ George\ Cafe\ Light\ Italic.ttf")
+  }
