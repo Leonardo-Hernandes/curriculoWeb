@@ -1,31 +1,35 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "19b0764512cca67720b1c09a397bcc28",
+    "revision": "be805647c37bb6f643d3799a4ec4ffbd",
     "url": "/curriculoWeb/index.html"
   },
   {
-    "revision": "dedfbab8615b04c2dc32",
+    "revision": "af9370655cdcafa9947c",
     "url": "/curriculoWeb/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "3acef2c9059204489a79",
+    "revision": "063c6c771373626ec347",
     "url": "/curriculoWeb/static/css/main.18a97eb2.chunk.css"
   },
   {
-    "revision": "dedfbab8615b04c2dc32",
-    "url": "/curriculoWeb/static/js/2.4da49652.chunk.js"
+    "revision": "af9370655cdcafa9947c",
+    "url": "/curriculoWeb/static/js/2.1ecb4976.chunk.js"
   },
   {
     "revision": "825e3c71abfed54ead16b6fbe34cbf8a",
-    "url": "/curriculoWeb/static/js/2.4da49652.chunk.js.LICENSE.txt"
+    "url": "/curriculoWeb/static/js/2.1ecb4976.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3acef2c9059204489a79",
-    "url": "/curriculoWeb/static/js/main.16f2db06.chunk.js"
+    "revision": "063c6c771373626ec347",
+    "url": "/curriculoWeb/static/js/main.e5d41e99.chunk.js"
   },
   {
     "revision": "9671962fde90a441c914",
     "url": "/curriculoWeb/static/js/runtime-main.d9977c59.js"
+  },
+  {
+    "revision": "8afff57f918c217d6ae873bc5d8396e4",
+    "url": "/curriculoWeb/static/media/Hero-img.8afff57f.jpeg"
   },
   {
     "revision": "7f5529bb5a22f0b68d69b01c8dcfebf4",
