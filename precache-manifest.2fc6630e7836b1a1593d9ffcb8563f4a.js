@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "be805647c37bb6f643d3799a4ec4ffbd",
+    "revision": "3a19e51c73e79db07a7ec3e2aa4c8a26",
     "url": "/curriculoWeb/index.html"
   },
   {
-    "revision": "af9370655cdcafa9947c",
+    "revision": "58d30ed47308e5b0c1f3",
     "url": "/curriculoWeb/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "063c6c771373626ec347",
-    "url": "/curriculoWeb/static/css/main.18a97eb2.chunk.css"
+    "revision": "e698a123af47d866b74a",
+    "url": "/curriculoWeb/static/css/main.3d85ee81.chunk.css"
   },
   {
-    "revision": "af9370655cdcafa9947c",
-    "url": "/curriculoWeb/static/js/2.1ecb4976.chunk.js"
+    "revision": "58d30ed47308e5b0c1f3",
+    "url": "/curriculoWeb/static/js/2.93366b11.chunk.js"
   },
   {
     "revision": "825e3c71abfed54ead16b6fbe34cbf8a",
-    "url": "/curriculoWeb/static/js/2.1ecb4976.chunk.js.LICENSE.txt"
+    "url": "/curriculoWeb/static/js/2.93366b11.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "063c6c771373626ec347",
-    "url": "/curriculoWeb/static/js/main.e5d41e99.chunk.js"
+    "revision": "e698a123af47d866b74a",
+    "url": "/curriculoWeb/static/js/main.6825aeb3.chunk.js"
   },
   {
     "revision": "9671962fde90a441c914",
@@ -58,5 +58,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",
     "url": "/curriculoWeb/static/media/logo.5d5d9eef.svg"
+  },
+  {
+    "revision": "2da8a239a812fda6f040bd4eb20e626a",
+    "url": "/curriculoWeb/static/media/profileBackground.2da8a239.jpg"
   }
 ]);
