@@ -1,29 +1,28 @@
 {
   "files": {
-    "main.css": "/curriculoWeb/static/css/main.3d85ee81.chunk.css",
-    "main.js": "/curriculoWeb/static/js/main.6825aeb3.chunk.js",
-    "main.js.map": "/curriculoWeb/static/js/main.6825aeb3.chunk.js.map",
+    "main.css": "/curriculoWeb/static/css/main.862626bf.chunk.css",
+    "main.js": "/curriculoWeb/static/js/main.5d6a71c5.chunk.js",
+    "main.js.map": "/curriculoWeb/static/js/main.5d6a71c5.chunk.js.map",
     "runtime-main.js": "/curriculoWeb/static/js/runtime-main.d9977c59.js",
     "runtime-main.js.map": "/curriculoWeb/static/js/runtime-main.d9977c59.js.map",
     "static/css/2.af3c1da9.chunk.css": "/curriculoWeb/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.93366b11.chunk.js": "/curriculoWeb/static/js/2.93366b11.chunk.js",
-    "static/js/2.93366b11.chunk.js.map": "/curriculoWeb/static/js/2.93366b11.chunk.js.map",
+    "static/js/2.506c97af.chunk.js": "/curriculoWeb/static/js/2.506c97af.chunk.js",
+    "static/js/2.506c97af.chunk.js.map": "/curriculoWeb/static/js/2.506c97af.chunk.js.map",
     "index.html": "/curriculoWeb/index.html",
-    "precache-manifest.2fc6630e7836b1a1593d9ffcb8563f4a.js": "/curriculoWeb/precache-manifest.2fc6630e7836b1a1593d9ffcb8563f4a.js",
+    "precache-manifest.fd807674cba854246bf1f47860ef7f82.js": "/curriculoWeb/precache-manifest.fd807674cba854246bf1f47860ef7f82.js",
     "service-worker.js": "/curriculoWeb/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/curriculoWeb/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.3d85ee81.chunk.css.map": "/curriculoWeb/static/css/main.3d85ee81.chunk.css.map",
-    "static/js/2.93366b11.chunk.js.LICENSE.txt": "/curriculoWeb/static/js/2.93366b11.chunk.js.LICENSE.txt",
+    "static/css/main.862626bf.chunk.css.map": "/curriculoWeb/static/css/main.862626bf.chunk.css.map",
+    "static/js/2.506c97af.chunk.js.LICENSE.txt": "/curriculoWeb/static/js/2.506c97af.chunk.js.LICENSE.txt",
     "static/media/Hero-img.jpeg": "/curriculoWeb/static/media/Hero-img.8afff57f.jpeg",
     "static/media/fonts.css": "/curriculoWeb/static/media/Louis George Cafe.a617b62c.ttf",
-    "static/media/logo.svg": "/curriculoWeb/static/media/logo.5d5d9eef.svg",
     "static/media/profileBackground.jpg": "/curriculoWeb/static/media/profileBackground.2da8a239.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.d9977c59.js",
     "static/css/2.af3c1da9.chunk.css",
-    "static/js/2.93366b11.chunk.js",
-    "static/css/main.3d85ee81.chunk.css",
-    "static/js/main.6825aeb3.chunk.js"
+    "static/js/2.506c97af.chunk.js",
+    "static/css/main.862626bf.chunk.css",
+    "static/js/main.5d6a71c5.chunk.js"
   ]
 }
