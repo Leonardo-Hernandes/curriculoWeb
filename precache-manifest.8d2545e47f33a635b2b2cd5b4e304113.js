@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e5063097d6736f370531642a4714eb2e",
+    "revision": "f18c7d643aa6456fcf4cf963bcd118b0",
     "url": "/curriculoWeb/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/curriculoWeb/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "fe12e8a28afa1965491b",
+    "revision": "5d5e20fa9811dc2154f3",
     "url": "/curriculoWeb/static/css/main.3f8dbb80.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/curriculoWeb/static/js/2.0234f689.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fe12e8a28afa1965491b",
-    "url": "/curriculoWeb/static/js/main.88f0264d.chunk.js"
+    "revision": "5d5e20fa9811dc2154f3",
+    "url": "/curriculoWeb/static/js/main.e077f54c.chunk.js"
   },
   {
     "revision": "9671962fde90a441c914",
