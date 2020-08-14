@@ -1,28 +1,35 @@
 {
   "files": {
     "main.css": "/curriculoWeb/static/css/main.862626bf.chunk.css",
-    "main.js": "/curriculoWeb/static/js/main.5d6a71c5.chunk.js",
-    "main.js.map": "/curriculoWeb/static/js/main.5d6a71c5.chunk.js.map",
+    "main.js": "/curriculoWeb/static/js/main.c22136d5.chunk.js",
+    "main.js.map": "/curriculoWeb/static/js/main.c22136d5.chunk.js.map",
     "runtime-main.js": "/curriculoWeb/static/js/runtime-main.d9977c59.js",
     "runtime-main.js.map": "/curriculoWeb/static/js/runtime-main.d9977c59.js.map",
     "static/css/2.af3c1da9.chunk.css": "/curriculoWeb/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.506c97af.chunk.js": "/curriculoWeb/static/js/2.506c97af.chunk.js",
-    "static/js/2.506c97af.chunk.js.map": "/curriculoWeb/static/js/2.506c97af.chunk.js.map",
+    "static/js/2.d6905a04.chunk.js": "/curriculoWeb/static/js/2.d6905a04.chunk.js",
+    "static/js/2.d6905a04.chunk.js.map": "/curriculoWeb/static/js/2.d6905a04.chunk.js.map",
     "index.html": "/curriculoWeb/index.html",
-    "precache-manifest.fd807674cba854246bf1f47860ef7f82.js": "/curriculoWeb/precache-manifest.fd807674cba854246bf1f47860ef7f82.js",
+    "precache-manifest.3f90fd7b04be598025e4d13e73554079.js": "/curriculoWeb/precache-manifest.3f90fd7b04be598025e4d13e73554079.js",
     "service-worker.js": "/curriculoWeb/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/curriculoWeb/static/css/2.af3c1da9.chunk.css.map",
     "static/css/main.862626bf.chunk.css.map": "/curriculoWeb/static/css/main.862626bf.chunk.css.map",
-    "static/js/2.506c97af.chunk.js.LICENSE.txt": "/curriculoWeb/static/js/2.506c97af.chunk.js.LICENSE.txt",
+    "static/js/2.d6905a04.chunk.js.LICENSE.txt": "/curriculoWeb/static/js/2.d6905a04.chunk.js.LICENSE.txt",
     "static/media/Hero-img.jpeg": "/curriculoWeb/static/media/Hero-img.8afff57f.jpeg",
     "static/media/fonts.css": "/curriculoWeb/static/media/Louis George Cafe.a617b62c.ttf",
-    "static/media/profileBackground.jpg": "/curriculoWeb/static/media/profileBackground.2da8a239.jpg"
+    "static/media/bootstrap.png": "/curriculoWeb/static/media/bootstrap.ad4af0c3.png",
+    "static/media/jquery.png": "/curriculoWeb/static/media/jquery.23b2af6a.png",
+    "static/media/js.png": "/curriculoWeb/static/media/js.18776ab3.png",
+    "static/media/mongo.png": "/curriculoWeb/static/media/mongo.7ef08d3a.png",
+    "static/media/nodejs.svg": "/curriculoWeb/static/media/nodejs.a1231528.svg",
+    "static/media/profileBackground.jpg": "/curriculoWeb/static/media/profileBackground.2da8a239.jpg",
+    "static/media/react2.png": "/curriculoWeb/static/media/react2.a1766471.png",
+    "static/media/reactNative.png": "/curriculoWeb/static/media/reactNative.59186c04.png"
   },
   "entrypoints": [
     "static/js/runtime-main.d9977c59.js",
     "static/css/2.af3c1da9.chunk.css",
-    "static/js/2.506c97af.chunk.js",
+    "static/js/2.d6905a04.chunk.js",
     "static/css/main.862626bf.chunk.css",
-    "static/js/main.5d6a71c5.chunk.js"
+    "static/js/main.c22136d5.chunk.js"
   ]
 }

@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ec4eceaca2c1dc476baa399e130f919d",
+    "revision": "c2a050017c1370993837334b61fd1ae4",
     "url": "/curriculoWeb/index.html"
   },
   {
-    "revision": "ed7952a5dd015b7c9469",
+    "revision": "c37298a96f341f8205e9",
     "url": "/curriculoWeb/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "383553666d7909e7ba23",
+    "revision": "fdfa9d89acae0b74ca64",
     "url": "/curriculoWeb/static/css/main.862626bf.chunk.css"
   },
   {
-    "revision": "ed7952a5dd015b7c9469",
-    "url": "/curriculoWeb/static/js/2.506c97af.chunk.js"
+    "revision": "c37298a96f341f8205e9",
+    "url": "/curriculoWeb/static/js/2.d6905a04.chunk.js"
   },
   {
     "revision": "825e3c71abfed54ead16b6fbe34cbf8a",
-    "url": "/curriculoWeb/static/js/2.506c97af.chunk.js.LICENSE.txt"
+    "url": "/curriculoWeb/static/js/2.d6905a04.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "383553666d7909e7ba23",
-    "url": "/curriculoWeb/static/js/main.5d6a71c5.chunk.js"
+    "revision": "fdfa9d89acae0b74ca64",
+    "url": "/curriculoWeb/static/js/main.c22136d5.chunk.js"
   },
   {
     "revision": "9671962fde90a441c914",
@@ -56,7 +56,35 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/curriculoWeb/static/media/Louis George Cafe.a617b62c.ttf"
   },
   {
+    "revision": "ad4af0c37731ee9c437303b7412d4e3c",
+    "url": "/curriculoWeb/static/media/bootstrap.ad4af0c3.png"
+  },
+  {
+    "revision": "23b2af6ab8057b16e547cb56c8550aa1",
+    "url": "/curriculoWeb/static/media/jquery.23b2af6a.png"
+  },
+  {
+    "revision": "18776ab3178f7730cfe28c9e5b5800dc",
+    "url": "/curriculoWeb/static/media/js.18776ab3.png"
+  },
+  {
+    "revision": "7ef08d3a5f8b8e480e1b8d7d06204d0d",
+    "url": "/curriculoWeb/static/media/mongo.7ef08d3a.png"
+  },
+  {
+    "revision": "a123152868245dee71c441124a98ac3e",
+    "url": "/curriculoWeb/static/media/nodejs.a1231528.svg"
+  },
+  {
     "revision": "2da8a239a812fda6f040bd4eb20e626a",
     "url": "/curriculoWeb/static/media/profileBackground.2da8a239.jpg"
+  },
+  {
+    "revision": "a1766471e07bbdf2d665e2f49caa5ebd",
+    "url": "/curriculoWeb/static/media/react2.a1766471.png"
+  },
+  {
+    "revision": "59186c04e772aea98ae8c8bd8a4ad8c1",
+    "url": "/curriculoWeb/static/media/reactNative.59186c04.png"
   }
 ]);
