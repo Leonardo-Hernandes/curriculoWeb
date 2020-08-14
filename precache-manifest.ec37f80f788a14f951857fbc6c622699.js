@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c2a050017c1370993837334b61fd1ae4",
+    "revision": "b0e48b6ef6a18a00feb6725dc153d62d",
     "url": "/curriculoWeb/index.html"
   },
   {
-    "revision": "c37298a96f341f8205e9",
+    "revision": "a818221735c9febde388",
     "url": "/curriculoWeb/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "fdfa9d89acae0b74ca64",
+    "revision": "31d21bf39f6c3dd58698",
     "url": "/curriculoWeb/static/css/main.862626bf.chunk.css"
   },
   {
-    "revision": "c37298a96f341f8205e9",
-    "url": "/curriculoWeb/static/js/2.d6905a04.chunk.js"
+    "revision": "a818221735c9febde388",
+    "url": "/curriculoWeb/static/js/2.0234f689.chunk.js"
   },
   {
     "revision": "825e3c71abfed54ead16b6fbe34cbf8a",
-    "url": "/curriculoWeb/static/js/2.d6905a04.chunk.js.LICENSE.txt"
+    "url": "/curriculoWeb/static/js/2.0234f689.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fdfa9d89acae0b74ca64",
-    "url": "/curriculoWeb/static/js/main.c22136d5.chunk.js"
+    "revision": "31d21bf39f6c3dd58698",
+    "url": "/curriculoWeb/static/js/main.1119ac35.chunk.js"
   },
   {
     "revision": "9671962fde90a441c914",
@@ -54,6 +54,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "a617b62cd8089465865a37c676da00e2",
     "url": "/curriculoWeb/static/media/Louis George Cafe.a617b62c.ttf"
+  },
+  {
+    "revision": "45d649325b03051f603abf72d45981fa",
+    "url": "/curriculoWeb/static/media/RickAndMorty.45d64932.png"
   },
   {
     "revision": "ad4af0c37731ee9c437303b7412d4e3c",
